@@ -1,5 +1,3 @@
-![IZEMX Lab](assets/cover.svg)
-
 # IZEMX Lab
 
 A full-stack contribution to an AI SaaS platform during a final-year internship at IZEMX Lab. The work connected secure backend services, a React back office and the operational services needed to manage AI usage.
